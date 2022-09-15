@@ -5,7 +5,7 @@ Read NFTs from MasterOfLegends collection
 <h4> Unity project </h4> 
 
 This project is a testing project to read NFT(ERC1155 tokens) from user's wallet.
-https://opensea.io/collection/masteroflegends
+https://opensea.io/collection/masteroflegends <br>
 If you bought NFT from this collection, you can see your token in game.
 
 
@@ -13,7 +13,7 @@ If you bought NFT from this collection, you can see your token in game.
 
     1. Sign in using Metamask, Coinbase Wallet, TrustWallet, SafePal
     2. Read ERC1155 tokens from user's wallet
-    3. Read metadata from the token ID
+    3. Read metadata from the token IDs
     4. List all tokens in Unity project
     5. Write Firebase Unity WebGL library (Firebase don't provide package for the Unity's WebGL platform)
 
