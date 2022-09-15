@@ -5,7 +5,11 @@ Read NFTs from MasterOfLegends collection
 <h4> Unity project </h4> 
 
 This project is a testing project to read NFT(ERC1155 tokens) from user's wallet.
+- OpenSea collection
 https://opensea.io/collection/masteroflegends <br>
+
+- Discord Server
+https://discord.gg/wacjYMd7 <br>
 If you bought NFT from this collection, you can see your token in game.
 
 
