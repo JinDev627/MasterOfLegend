@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1043657823183",
+    "project_id": "master-of-legends",
+    "firebase_url": "https://master-of-legends-default-rtdb.firebaseio.com",
+    "storage_bucket": "master-of-legends.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043657823183:android:c6f9ac2cb900c67a00f8ba",
+        "android_client_info": {
+          "package_name": "com.game.masteroflegends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043657823183-mhec7c06mqveuce52feoas6d38ioe6db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQmYJyhJ8BQJPYbleMUnlhaId61c1P3Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043657823183-mhec7c06mqveuce52feoas6d38ioe6db.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1043657823183-gh3tbs3i7lv85mbnct275t91aa1ps4l2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.game.masteroflegends"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

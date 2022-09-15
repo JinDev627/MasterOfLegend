@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1043657823183-gh3tbs3i7lv85mbnct275t91aa1ps4l2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1043657823183-gh3tbs3i7lv85mbnct275t91aa1ps4l2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD81QIId-er0iKwz27-WddnFVs6P-Eq5VY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1043657823183</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.game.masteroflegends</string>
+	<key>PROJECT_ID</key>
+	<string>master-of-legends</string>
+	<key>STORAGE_BUCKET</key>
+	<string>master-of-legends.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1043657823183:ios:19b533a5a8c89cf900f8ba</string>
+</dict>
+</plist>
